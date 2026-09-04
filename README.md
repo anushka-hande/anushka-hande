@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,45:123B7A,100:4169E1&height=190&section=header&text=Hi%2C%20I%27m%20Anushka%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20%7C%20Building%20intelligent%20applications&descAlignY=58&descSize=17&descColor=DCE6FF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,48:123B7A,100:4169E1&height=190&section=header&text=Hi%2C%20I%27m%20Anushka%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20%7C%20Building%20intelligent%20applications&descAlignY=58&descSize=17&descColor=DCE6FF"
     alt="Hi, I'm Anushka"
   />
 </p>
@@ -15,6 +15,13 @@
   <a href="https://github.com/anushka-hande">
     <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=4169E1&center=true&vCenter=true&width=620&lines=Building+practical+AI+solutions;Exploring+Generative+AI%2C+RAG%2C+and+AI+Agents;Learning+Deep+Learning+and+Computer+Vision"
+    alt="Currently learning and building"
+  />
 </p>
 
 <p align="center">
@@ -36,7 +43,9 @@
 
 ## <img src="https://img.shields.io/badge/02-123B7A?style=flat-square&logoColor=white" alt="02" /> Featured Projects
 
-### 🛒 [AI-Based E-Commerce Profit & Risk Analyzer](https://github.com/divyanshh142/AI-Profit-Risk-Analyzer)
+### 🛒 AI-Based E-Commerce Profit & Risk Analyzer
+
+[View repository →](https://github.com/divyanshh142/AI-Profit-Risk-Analyzer)
 
 > AI-powered analytics platform for SMEs, supporting demand forecasting, return-risk prediction, vendor-risk analysis, SKU-level profit estimation, and RAG-based business insights.
 
@@ -44,7 +53,9 @@
 
 <br>
 
-### 🎬 [MoodBinge — Mood-Based Movie Recommendation System](https://github.com/anushka-hande/moodbinge-v2)
+### 🎬 MoodBinge — Mood-Based Movie Recommendation System
+
+[View repository →](https://github.com/anushka-hande/moodbinge-v2)
 
 > Mood-aware movie recommendation application using valence-arousal mapping, sentiment analysis, hybrid recommendations, and anti-repetition logic.
 
@@ -56,7 +67,7 @@
 
 > OCR-NLP pipeline for evaluating handwritten programming and theory answers, developed as part of an IEEE conference publication.
 
-| Scale | OCR accuracy | Layout detection | Human-grader correlation |
+| Scale | OCR Accuracy | Layout Detection | Human-Grader Correlation |
 |:--|:--:|:--:|:--:|
 | 800 answer sheets · 400 students | 79.7% | 99.8% | 0.798 |
 
@@ -64,11 +75,13 @@
 
 <br>
 
-### 📊 [Customer Churn Prediction](https://github.com/anushka-hande/Customer_Churn_Prediction)
+### 📊 Customer Churn Prediction
+
+[View repository →](https://github.com/anushka-hande/Customer_Churn_Prediction)
 
 > Machine-learning project using EDA, preprocessing, feature engineering, model comparison, and feature-importance analysis to predict customer churn.
 
-| Best model | Accuracy | F1-score |
+| Best Model | Accuracy | F1-Score |
 |:--|:--:|:--:|
 | Gradient Boosting | 80.5% | 58.2% |
 
@@ -79,7 +92,10 @@
 ## <img src="https://img.shields.io/badge/03-4169E1?style=flat-square&logoColor=white" alt="03" /> Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,react,fastapi,spring,postgresql,sqlite,git,docker,aws&theme=light&perline=13" alt="Technical skills" />
+  <img
+    src="https://skillicons.dev/icons?i=python,java,cpp,html,css,react,fastapi,spring,postgresql,sqlite,git,docker,aws&theme=light&perline=13"
+    alt="Python, Java, C++, HTML, CSS, React, FastAPI, Spring Boot, PostgreSQL, SQLite, Git, Docker, and AWS"
+  />
 </p>
 
 <p align="center">
@@ -94,9 +110,8 @@
 
 > Published in the **2026 3rd ICETEMS**, Nagpur, India.
 
-<a href="https://doi.org/10.1109/ICETEMS66917.2026.11469537" style="color:#111827; text-decoration:underline; text-decoration-color:#4169E1; text-underline-offset:4px;">
-  Read the publication
-</a>
+[Read the publication →](https://doi.org/10.1109/ICETEMS66917.2026.11469537)
+
 <br>
 
 ## <img src="https://img.shields.io/badge/05-4169E1?style=flat-square&logoColor=white" alt="05" /> Beyond Coding

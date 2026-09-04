@@ -94,8 +94,9 @@
 
 > Published in the **2026 3rd ICETEMS**, Nagpur, India.
 
-[Read the publication](https://doi.org/10.1109/ICETEMS66917.2026.11469537)
-
+<a href="https://doi.org/10.1109/ICETEMS66917.2026.11469537" style="color:#111827; text-decoration:underline; text-decoration-color:#4169E1; text-underline-offset:4px;">
+  Read the publication
+</a>
 <br>
 
 ## <img src="https://img.shields.io/badge/05-4169E1?style=flat-square&logoColor=white" alt="05" /> Beyond Coding

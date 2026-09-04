@@ -94,25 +94,6 @@ Published in the **2026 3rd ICETEMS**, Nagpur, India.
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka-hande&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Anushka's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushka-hande&theme=tokyonight&hide_border=true" alt="Anushka's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-hande&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Anushka's top programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushka-hande&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Anushka's GitHub trophies" />
-</p>
----
-
 ## ⚡ Beyond Coding
 
 I enjoy journaling and reading, and I love discovering new movies and music. I can spend a long time choosing a movie—then happily rewatch an old favorite series during a late-night coding session. 🎬🎧

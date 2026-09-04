@@ -104,6 +104,15 @@
 
 <br>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-hande&layout=compact&theme=transparent&hide_border=true&title_color=123B7A&text_color=0B1F3A&bg_color=FFFFFF00"
+    alt="Top languages used in Anushka's public repositories"
+  />
+</p>
+
+<br>
+
 ## <img src="https://img.shields.io/badge/04-0B1F3A?style=flat-square&logoColor=white" alt="04" /> Publication
 
 ### Layout-Aware OCR and NLP Pipeline for Automated Evaluation of Handwritten Programming and Theory Assessments

@@ -106,7 +106,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-hande&layout=compact&theme=transparent&hide_border=true&title_color=123B7A&text_color=0B1F3A&bg_color=FFFFFF00"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushka-hande&layout=compact"
     alt="Top languages used in Anushka's public repositories"
   />
 </p>

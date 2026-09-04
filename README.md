@@ -1,93 +1,124 @@
-<h1 align="center">Anushka Hande</h1>
-
 <p align="center">
-  AI/ML Engineer · Data Science · Python · NLP · Computer Vision
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,45:123B7A,100:4169E1&height=190&section=header&text=Hi%2C%20I%27m%20Anushka%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20%7C%20Building%20intelligent%20applications&descAlignY=58&descSize=17&descColor=DCE6FF"
+    alt="Hi, I'm Anushka"
+  />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushkahande/">LinkedIn</a>
-  ·
-  <a href="mailto:anushkahande3@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/anushka-hande">GitHub</a>
+  <a href="https://www.linkedin.com/in/anushkahande/">
+    <img src="https://img.shields.io/badge/LinkedIn-123B7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anushkahande3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4169E1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/anushka-hande">
+    <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
----
+<p align="center">
+  <sub>Python · Machine Learning · NLP · Computer Vision · Full-Stack Development</sub>
+</p>
 
-## About
+<br>
 
-- Computer Science Engineering graduate and **PGCP-AI graduate from C-DAC Noida**
-- Aspiring **AI/ML Engineer** with interests in **Data Science**
-- Currently learning **Deep Learning, Generative AI, RAG systems, and AI Agents**
-- Open to opportunities across India
-- Interested in building practical, end-to-end AI applications
+## <img src="https://img.shields.io/badge/01-0B1F3A?style=flat-square&logoColor=white" alt="01" /> About Me
 
----
+> 🎓 Computer Science Engineering graduate and **PGCP-AI graduate from C-DAC Noida**  
+> 🎯 Aspiring **AI/ML Engineer** with interests in **Data Science**  
+> 🌱 Learning **Deep Learning, Generative AI, RAG systems, and AI Agents**  
+> 💻 Building practical, end-to-end AI and full-stack applications  
+> 📍 Open to opportunities across India  
+> 💌 Reach me at **[anushkahande3@gmail.com](mailto:anushkahande3@gmail.com)**
 
-## Projects
+<br>
 
-### [AI-Based E-Commerce Profit & Risk Analyzer](https://github.com/divyanshh142/AI-Profit-Risk-Analyzer)
+## <img src="https://img.shields.io/badge/02-123B7A?style=flat-square&logoColor=white" alt="02" /> Featured Projects
 
-AI-powered platform for SMEs supporting demand forecasting, return-risk prediction, vendor-risk analysis, SKU-level profit estimation, and RAG-based business insights.
+### 🛒 [AI-Based E-Commerce Profit & Risk Analyzer](https://github.com/divyanshh142/AI-Profit-Risk-Analyzer)
 
-`Python` `FastAPI` `Spring Boot` `React` `PostgreSQL` `pgvector` `LightGBM` `Airflow` `Docker`
+> AI-powered analytics platform for SMEs, built for demand forecasting, return-risk prediction, vendor-risk analysis, SKU-level profit estimation, and RAG-based business insights.
 
-### [MoodBinge](https://github.com/anushka-hande/moodbinge-v2)
+`Python` `FastAPI` `Spring Boot` `React` `PostgreSQL` `pgvector` `LightGBM` `Airflow` `Docker` `RAG`
 
-Mood-based movie recommendation application using valence-arousal mapping, sentiment analysis, hybrid recommendations, and anti-repetition logic.
+<br>
 
-`Python` `FastAPI` `React` `SQLite` `TMDB API`
+### 🎬 [MoodBinge — Mood-Based Movie Recommendation System](https://github.com/anushka-hande/moodbinge-v2)
 
-### [Customer Churn Prediction](https://github.com/anushka-hande/Customer_Churn_Prediction)
+> Mood-aware movie recommendation application using valence-arousal mapping, sentiment analysis, hybrid recommendations, and anti-repetition logic.
 
-Machine-learning project using EDA, feature engineering, model comparison, and feature-importance analysis to predict customer churn.
+`Python` `FastAPI` `React` `SQLite` `TMDB API` `Sentiment Analysis`
 
-**Best model:** Gradient Boosting  
-**F1-score:** 58.2% · **Accuracy:** 80.5%
+<br>
+
+### 📊 [Customer Churn Prediction](https://github.com/anushka-hande/Customer_Churn_Prediction)
+
+> Machine-learning project using EDA, preprocessing, feature engineering, model comparison, and feature-importance analysis to predict customer churn.
+
+| Best model | Accuracy | F1-score |
+|:--|:--:|:--:|
+| Gradient Boosting | 80.5% | 58.2% |
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
-### Automated Evaluation of Handwritten Assessments
+<br>
 
-OCR-NLP pipeline for evaluating handwritten programming and theory answers.
+### 📝 Automated Evaluation of Handwritten Assessments
 
-- Processed 800 answer sheets from 400 students
-- Achieved 79.7% OCR accuracy
-- Achieved 97.5% header classification and 99.8% layout detection
-- Achieved 0.798 correlation with human graders
+> OCR-NLP pipeline for evaluating handwritten programming and theory answers, developed as part of an IEEE conference publication.
+
+| Scale | OCR accuracy | Layout detection | Human-grader correlation |
+|:--|:--:|:--:|:--:|
+| 800 answer sheets · 400 students | 79.7% | 99.8% | 0.798 |
 
 `Python` `Azure Document Intelligence` `OpenCV` `Scikit-learn` `OCR` `NLP`
 
----
+<br>
 
-## Skills
-
-**Languages:** Python · Java · C++ · SQL
-
-**Development:** FastAPI · React · Spring Boot · HTML · CSS
-
-**AI/ML:** Machine Learning · NLP · Computer Vision · OCR · RAG · LLMs · Generative AI
-
-**Data and Tools:** PostgreSQL · pgvector · SQLite · Git · Docker · AWS · Apache Airflow
-
----
-
-## Publication
-
-**Layout-Aware OCR and NLP Pipeline for Automated Evaluation of Handwritten Programming and Theory Assessments**
-
-Published in the **2026 3rd ICETEMS**, Nagpur, India.
-
-[Read the publication](https://doi.org/10.1109/ICETEMS66917.2026.11469537)
-
----
-
-## Beyond Coding
-
-I enjoy journaling and reading, discovering movies and music, and rewatching old favorite series during late-night coding sessions.
-
----
+## <img src="https://img.shields.io/badge/03-4169E1?style=flat-square&logoColor=white" alt="03" /> Technical Skills
 
 <p align="center">
-  <i>Thanks for visiting.</i>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,react,fastapi,spring,postgresql,sqlite,git,docker,aws&theme=light&perline=13" alt="Technical skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B1F3A?style=flat-square&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/NLP-123B7A?style=flat-square&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1E4F9A?style=flat-square&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/OCR-4169E1?style=flat-square&logoColor=white" alt="OCR" />
+  <img src="https://img.shields.io/badge/RAG-0B1F3A?style=flat-square&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-123B7A?style=flat-square&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4169E1?style=flat-square&logoColor=white" alt="Generative AI" />
+</p>
+
+<br>
+
+## <img src="https://img.shields.io/badge/04-0B1F3A?style=flat-square&logoColor=white" alt="04" /> Publication
+
+### Layout-Aware OCR and NLP Pipeline for Automated Evaluation of Handwritten Programming and Theory Assessments
+
+> Published in the **2026 3rd ICETEMS**, Nagpur, India.
+
+<p>
+  <a href="https://doi.org/10.1109/ICETEMS66917.2026.11469537">
+    <img src="https://img.shields.io/badge/Read%20the%20IEEE%20Publication-123B7A?style=for-the-badge&logo=ieee&logoColor=white" alt="Read IEEE Publication" />
+  </a>
+</p>
+
+<br>
+
+## <img src="https://img.shields.io/badge/05-4169E1?style=flat-square&logoColor=white" alt="05" /> Beyond Coding
+
+> 📖 I enjoy journaling and reading.  
+> 🎬 I love discovering movies and music—and can spend ages choosing a movie before happily rewatching an old favorite series during a late-night coding session.  
+> 🎧 A good playlist makes every coding session better.
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,45:123B7A,100:4169E1&height=35&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=16&fontColor=FFFFFF&fontAlignY=65"
+    alt="Thanks for visiting"
+  />
 </p>

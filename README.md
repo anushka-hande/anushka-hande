@@ -38,7 +38,7 @@
 
 ### 🛒 [AI-Based E-Commerce Profit & Risk Analyzer](https://github.com/divyanshh142/AI-Profit-Risk-Analyzer)
 
-> AI-powered analytics platform for SMEs, built for demand forecasting, return-risk prediction, vendor-risk analysis, SKU-level profit estimation, and RAG-based business insights.
+> AI-powered analytics platform for SMEs, supporting demand forecasting, return-risk prediction, vendor-risk analysis, SKU-level profit estimation, and RAG-based business insights.
 
 `Python` `FastAPI` `Spring Boot` `React` `PostgreSQL` `pgvector` `LightGBM` `Airflow` `Docker` `RAG`
 
@@ -49,18 +49,6 @@
 > Mood-aware movie recommendation application using valence-arousal mapping, sentiment analysis, hybrid recommendations, and anti-repetition logic.
 
 `Python` `FastAPI` `React` `SQLite` `TMDB API` `Sentiment Analysis`
-
-<br>
-
-### 📊 [Customer Churn Prediction](https://github.com/anushka-hande/Customer_Churn_Prediction)
-
-> Machine-learning project using EDA, preprocessing, feature engineering, model comparison, and feature-importance analysis to predict customer churn.
-
-| Best model | Accuracy | F1-score |
-|:--|:--:|:--:|
-| Gradient Boosting | 80.5% | 58.2% |
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 <br>
 
@@ -76,6 +64,18 @@
 
 <br>
 
+### 📊 [Customer Churn Prediction](https://github.com/anushka-hande/Customer_Churn_Prediction)
+
+> Machine-learning project using EDA, preprocessing, feature engineering, model comparison, and feature-importance analysis to predict customer churn.
+
+| Best model | Accuracy | F1-score |
+|:--|:--:|:--:|
+| Gradient Boosting | 80.5% | 58.2% |
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+<br>
+
 ## <img src="https://img.shields.io/badge/03-4169E1?style=flat-square&logoColor=white" alt="03" /> Technical Skills
 
 <p align="center">
@@ -83,13 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0B1F3A?style=flat-square&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-123B7A?style=flat-square&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-1E4F9A?style=flat-square&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/OCR-4169E1?style=flat-square&logoColor=white" alt="OCR" />
-  <img src="https://img.shields.io/badge/RAG-0B1F3A?style=flat-square&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLMs-123B7A?style=flat-square&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Generative%20AI-4169E1?style=flat-square&logoColor=white" alt="Generative AI" />
+  <sub>Machine Learning · NLP · Computer Vision · OCR · RAG · LLMs · Generative AI</sub>
 </p>
 
 <br>
@@ -107,8 +101,8 @@
 ## <img src="https://img.shields.io/badge/05-4169E1?style=flat-square&logoColor=white" alt="05" /> Beyond Coding
 
 > 📖 I enjoy journaling and reading.  
-> 🎬 I love discovering movies and music—and can spend ages choosing a movie before happily rewatching an old favorite series during a late-night coding session.  
-> 🎧 A good playlist makes every coding session better.
+> 🎬 I love discovering movies and music—and can spend ages choosing a movie before happily rewatching an old favorite series.  
+> 🎧 A good playlist and a rewatch series make late-night coding sessions even better.
 
 <br>
 

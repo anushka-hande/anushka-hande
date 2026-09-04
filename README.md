@@ -100,11 +100,7 @@
 
 > Published in the **2026 3rd ICETEMS**, Nagpur, India.
 
-<p>
-  <a href="https://doi.org/10.1109/ICETEMS66917.2026.11469537">
-    <img src="https://img.shields.io/badge/Read%20the%20IEEE%20Publication-123B7A?style=for-the-badge&logo=ieee&logoColor=white" alt="Read IEEE Publication" />
-  </a>
-</p>
+[Read the publication](https://doi.org/10.1109/ICETEMS66917.2026.11469537)
 
 <br>
 
@@ -117,8 +113,5 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,45:123B7A,100:4169E1&height=35&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=16&fontColor=FFFFFF&fontAlignY=65"
-    alt="Thanks for visiting"
-  />
+  <i>Thanks for visiting my profile. Feel free to explore my repositories and connect with me!</i>
 </p>
